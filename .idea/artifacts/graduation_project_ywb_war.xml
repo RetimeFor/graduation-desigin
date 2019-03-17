@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="graduation-project-ywb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>graduation-project-ywb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="graduation-project-ywb-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="graduation-project-ywb:war exploded" />
+    </root>
+  </artifact>
+</component>
